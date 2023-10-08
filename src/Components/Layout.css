@@ -1,0 +1,43 @@
+.section.layout {
+    padding: 60px;
+   
+}
+.col-md-6.colCenter {
+    border: 1px solid;
+    height: 350px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 13% 0;
+}
+.col-md-3.colHeadLorem {
+    border: 1px solid;
+    text-align: center;
+    padding: 12px;
+}
+.layout h3 {
+    font-size: 14px;
+    margin-top: 6px;
+    font-weight: bold;
+}
+
+.col-md-9.colHeadLink {
+    border: 1px solid;
+    text-align: end;
+    padding: 15px 50px;
+}
+a.link {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+}
+.col-md-12.colFooter {
+    border: 1px solid;
+    height: 250px;
+    text-align: left;
+    padding: 50px 50px;
+}
+span.left {
+    margin: 0px 132px;
+}
